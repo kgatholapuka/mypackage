@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/kgatholapuka/<package-name>
+Author: Kgathola Puka
+Author-email: kgatholapuka@gmail.com
+License: MIT
+Description: ## Mypackage 
+        
+        
+Platform: UNKNOWN
